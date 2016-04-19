@@ -81,6 +81,13 @@ section {
 	margin: 10 15;
 }
 
+section #connect{
+	width: 50%;
+	padding: 5px;
+	padding-left: 5px;
+	margin: 10 15;
+}
+
 aside #foto{
 	position: absolute;
 	left: 53%;
