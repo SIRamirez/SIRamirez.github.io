@@ -78,26 +78,24 @@ main{
 	padding: 8px;
 }
 
-aside #pepa{
-	float: right;
-	padding-right: 3%;
+section{
+	padding: 1.5%;
+	width: 50%;
+	float: left;
 }
 
-#titulo{
+#text{
 	float: right;
-	font-family: "forte";
-	font-size: 22px;
 	padding-right: 3%;
-}
-
-#texto{
-	float: right;
-	font-family: "chiller";
-	font-size: 20px;
 	width: 40%;
-	padding: 3%;
+	padding-bottom: 5%;
 }
 
+aside h3{
+	font-size: 25px;
+	font-family: "forte";
+	text-align: center;
+}
 
 /*copyright area*/
 footer {
