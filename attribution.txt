@@ -11,3 +11,27 @@ airplane - https://pixabay.com/en/airplane-airport-luggage-baggage-691949/
 train_station2 - https://pixabay.com/en/train-station-transportation-people-691176/
 Sunset - https://pixabay.com/en/sunset-sea-sun-birds-twilight-600095/
 Countryside - https://pixabay.com/en/countryside-sunset-landscape-1149680/
+
+Venice, Italia
+
+venecia - https://pixabay.com/en/italy-venice-venezia-gondolas-601798/#
+veniceCanal - https://pixabay.com/en/venice-grand-canal-italy-europe-918691/
+dogesPalace - https://pixabay.com/en/venice-venezia-canale-grande-water-1261394/
+Palace - https://pixabay.com/en/italy-venice-venezia-694475/
+Bacilica - https://pixabay.com/en/venice-basilica-di-san-marco-540686/
+saint_marks - https://upload.wikimedia.org/wikipedia/commons/5/54/Veneza47.jpg
+teatro - https://upload.wikimedia.org/wikipedia/it/a/aa/Interno_Fenice_HR.jpg
+La_Fenince - https://upload.wikimedia.org/wikipedia/commons/5/5c/La_Fenice_Venezia.jpg
+
+Tokyo, Japan
+
+meiji_entrance - https://upload.wikimedia.org/wikipedia/commons/2/2f/Meiji_shrine_entrance_tori.jpg
+Shrine - https://upload.wikimedia.org/wikipedia/commons/1/17/JP-Tokio-Meiji-jingu.jpg
+CatStreet - https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Harajuku-Cat-street-05.jpg/1280px-Harajuku-Cat-street-05.jpg
+harajuku - https://c1.staticflickr.com/1/555/19621709418_0b712b6cef_b.jpg
+hara - https://c2.staticflickr.com/2/1374/1257662755_76ddc6d010_b.jpg
+bridge - https://c1.staticflickr.com/3/2730/4099554448_2d9e7538e2_b.jpg
+rainbow - https://upload.wikimedia.org/wikipedia/commons/3/3f/Rainbow_colored_Rainbow_Bridge_at_night.jpg
+Tokyo_Dome - https://upload.wikimedia.org/wikipedia/commons/b/b3/Tokyo_Dome_side_view.jpg
+Dome_night - https://upload.wikimedia.org/wikipedia/commons/7/7e/Tokyo_Dome_night.jpg
+Attractions - https://upload.wikimedia.org/wikipedia/commons/6/6d/Tokyo_Dome_City_Attractions_162013-1.JPG
