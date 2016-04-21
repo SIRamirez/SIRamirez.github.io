@@ -7,8 +7,6 @@ body{
 .container{
 	width: 75%;
 	margin: 0 auto;
-
-
 }
 
 /* heading of page*/
@@ -69,39 +67,69 @@ li a:hover{
 	color: #fff;
 }
 
-
-/*background color*/
+/*Background color*/
 main{
 	background-color: rgba(207, 207, 220, 0.5);
 }
 
 
-/*content of page*/
-
-
-
-#camera{
-	padding: 8px;
+/*pages link*/
+a:link {
+    text-decoration: none;
 }
 
-section{
-	padding: 1.5%;
-	width: 50%;
-	float: left;
+a:visited {
+    text-decoration: none;
 }
 
-#text{
-	float: right;
-	padding-right: 3%;
-	width: 40%;
-	padding-bottom: 5%;
+a:hover {
+    text-decoration: underline;
 }
 
-aside h3{
-	font-size: 25px;
-	font-family: "forte";
-	text-align: center;
+a:active {
+    text-decoration: underline;
 }
+
+
+
+/*page content*/
+
+.venecia{
+	width: auto;
+	background-image: url(images/venice/venecia2.jpg);
+	height: 50%;
+	padding-top: 2%;
+	margin: 5px;
+	background-position: center;
+}
+
+#vene{
+	color: #FFFFFF;
+	font-size: 35px;
+	font-family: "gabriola";
+	padding-left: 5%;
+	text-shadow: 2px 2px #000000;
+}
+
+.tokyo{
+	width: auto;
+	background-image: url("images/tokyo/titleTokyo2.jpg");
+	height: 50%;
+	padding-top: 2%;
+	margin: 5px;
+	background-position: center;
+
+}
+
+#toky{
+	color: #FFFFFF;
+	font-size: 35px;
+	font-family: "gabriola";
+	padding-left: 5%;
+	text-shadow: 2px 2px #000000;
+}
+
+
 
 /*copyright area*/
 footer {
