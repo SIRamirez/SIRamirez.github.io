@@ -111,6 +111,23 @@ a:active {
 	text-shadow: 2px 2px #000000;
 }
 
+.bora{
+	width: auto;
+	background-image: url(images/BoraBora/boraTitle2.jpg);
+	height: 50%;
+	padding-top: 2%;
+	margin: 5px;
+	background-position: center;
+}
+
+#borabo{
+	color: #FFFFFF;
+	font-size: 35px;
+	font-family: "gabriola";
+	padding-left: 5%;
+	text-shadow: 2px 2px #000000;
+}
+
 .tokyo{
 	width: auto;
 	background-image: url(images/tokyo/tokyo2.jpg);
@@ -122,23 +139,6 @@ a:active {
 }
 
 #toky{
-	color: #FFFFFF;
-	font-size: 35px;
-	font-family: "gabriola";
-	padding-left: 5%;
-	text-shadow: 2px 2px #000000;
-}
-
-.bora{
-	width: auto;
-	background-image: url(images/BoraBora/boraTitle2.jpg);
-	height: 50%;
-	padding-top: 2%;
-	margin: 5px;
-	background-position: center;
-}
-
-#borabo{
 	color: #FFFFFF;
 	font-size: 35px;
 	font-family: "gabriola";
