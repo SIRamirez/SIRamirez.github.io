@@ -36,3 +36,9 @@ rainbow - https://upload.wikimedia.org/wikipedia/commons/3/3f/Rainbow_colored_Ra
 Tokyo_Dome - https://upload.wikimedia.org/wikipedia/commons/b/b3/Tokyo_Dome_side_view.jpg
 Dome_night - https://upload.wikimedia.org/wikipedia/commons/7/7e/Tokyo_Dome_night.jpg
 Attractions - https://upload.wikimedia.org/wikipedia/commons/6/6d/Tokyo_Dome_City_Attractions_162013-1.JPG
+
+
+Bora Bora
+
+boraTitle - https://upload.wikimedia.org/wikipedia/commons/c/c4/DL2A_Four_Seasons_Bora_Bora_20.jpg
+Borabridge - https://upload.wikimedia.org/wikipedia/commons/c/c2/Borabridge.jpg
