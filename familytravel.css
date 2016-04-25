@@ -112,6 +112,27 @@ a:active {
 }
 
 
+/*Wisconsin Dells*/
+
+.wisconsin{
+	width: auto;
+	background-image: url(images/family/WisconsinDells/title.jpg);
+	height: 50%;
+	padding-top: 2%;
+	margin: 8px;
+	background-position: center;
+
+}
+
+#wis{
+	color: #FFFFFF;
+	font-size: 35px;
+	font-family: "gabriola";
+	padding-left: 5%;
+	text-shadow: 2px 2px #000000;
+}
+
+
 
 
 
