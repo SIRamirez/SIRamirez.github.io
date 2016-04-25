@@ -94,6 +94,7 @@ a:active {
 
 /*page content*/
 
+/*venecia*/
 .venecia{
 	width: auto;
 	background-image: url(images/venice/venecia2.jpg);
@@ -111,6 +112,7 @@ a:active {
 	text-shadow: 2px 2px #000000;
 }
 
+/*bora bora*/
 .bora{
 	width: auto;
 	background-image: url(images/BoraBora/boraTitle2.jpg);
@@ -128,6 +130,8 @@ a:active {
 	text-shadow: 2px 2px #000000;
 }
 
+
+/*tokyo japan*/
 .tokyo{
 	width: auto;
 	background-image: url(images/Tokyo/tokyotitle2.jpg);
