@@ -86,6 +86,7 @@ main{
 
 #plane{
 	padding: 8px;
+	padding-top: 5%;
 }
 
 section{
@@ -111,6 +112,20 @@ p{
 	text-align: justify;
 	font-family: "MV Boli";
 	font-size: 14px;
+}
+
+#one{
+	padding-left: 15%;
+	font-size: 18px;
+	text-shadow: 2px 2px #FF0000;
+}
+
+#two{
+	padding-left: 30%;
+
+	font-size: 18px;
+	text-shadow: 2px 2px #FF0000;
+
 }
 
 /*copyright area*/
