@@ -112,8 +112,23 @@ a:active {
 	text-shadow: 2px 2px #000000;
 }
 
+/*Zhangjiajie National Forest Park*/
+.national{
+	width: auto;
+	background-image: url(images/interesting/Zhangjiajie/title.jpg);
+	height: 50%;
+	padding-top: 2%;
+	margin: 8px;
+	background-position: top;
+}
 
-
+#park{
+	color: #FFFFFF;
+	font-size: 35px;
+	font-family: "gabriola";
+	padding-left: 5%;
+	text-shadow: 2px 2px #000000;
+}
 
 
 

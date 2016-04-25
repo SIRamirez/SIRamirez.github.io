@@ -97,7 +97,7 @@ a:active {
 /*venecia*/
 .venecia{
 	width: auto;
-	background-image: url(images/venice/venecia2.jpg);
+	background-image: url(images/vacation/venice/venecia2.jpg);
 	height: 50%;
 	padding-top: 2%;
 	margin: 8px;
@@ -115,7 +115,7 @@ a:active {
 /*bora bora*/
 .bora{
 	width: auto;
-	background-image: url(images/BoraBora/boraTitle2.jpg);
+	background-image: url(images/vacation/BoraBora/boraTitle2.jpg);
 	height: 50%;
 	padding-top: 2%;
 	margin: 8px;
@@ -134,7 +134,7 @@ a:active {
 /*tokyo japan*/
 .tokyo{
 	width: auto;
-	background-image: url(images/Tokyo/tokyotitle2.jpg);
+	background-image: url(images/vacation/Tokyo/tokyotitle2.jpg);
 	height: 50%;
 	padding-top: 2%;
 	margin: 8px;
@@ -150,7 +150,42 @@ a:active {
 	text-shadow: 2px 2px #000000;
 }
 
+/*Punta Cana*/
+.punta{
+	width: auto;
+	background-image: url(images/vacation/puntaCana/title.jpg);
+	height: 50%;
+	padding-top: 2%;
+	margin: 8px;
+	background-position: center;
+}
 
+#cana{
+	color: #FFFFFF;
+	font-size: 35px;
+	font-family: "gabriola";
+	padding-left: 5%;
+	text-shadow: 2px 2px #000000;
+}
+
+/*Pokhara, Nepal*/
+
+.pok{
+	width: auto;
+	background-image: url(images/vacation/pokhara/title.jpg);
+	height: 50%;
+	padding-top: 2%;
+	margin: 8px;
+	background-position: center;
+}
+
+#hara{
+	color: #FFFFFF;
+	font-size: 35px;
+	font-family: "gabriola";
+	padding-left: 5%;
+	text-shadow: 2px 2px #000000;
+}
 
 /*copyright area*/
 footer {
