@@ -1,7 +1,8 @@
 body{
-	background-image: url("");
+	background-image: url("images/vacation/venice/venice_night.jpg");
 	background-position: center;
-	background-color: rgba(99, 95, 89, 0.7);
+	background-repeat: no-repeat;
+	background-color: rgba(0,1,129, 0.7);
 }
 
 .container{
@@ -37,7 +38,7 @@ ul {
 } 
 
 nav{
-	background-color: rgba(179, 177, 187, 1);
+	background-color: #D8D5DB;
 	padding-left: 20px;
 	padding-right: 45px;
 	padding-bottom: 10px;
@@ -71,11 +72,13 @@ li a:hover{
 
 /*body background color*/
 main{
-	background-color: rgba(99, 95, 89, 1);
-
+	background-color: rgba(109,147,187, 0.3);
 }
  
 /*page content*/
+
+
+/*TEATRO TEXT STYLE*/
 
 .teatro img{
 	padding-left: 3%;
@@ -83,50 +86,52 @@ main{
 }
 
 .teatro h2{
-	color: #fff;
+	color: #000000;
 	font-family: "High Tower Text";
 	font-size: 28px;
 	text-align: center;
 	float: center;
 	padding-top: 20px;
-	text-shadow: 2px 2px #5A6FD8;
+	text-shadow:-1px -4px 9px #000000;
 }
 
 .teatro p{
-	color: #fff;
+	color: #000;
 	font-family: "High Tower Text";
 	font-size: 16px;
 	text-align: justify;
 	width: 40%;
 	float: right;
 	margin: 5px;
-	padding-right: 5%;
+	padding-right: 6%;
 }
 
+/*BACILICA TEXT STYLE*/
 .bacilica h2{
-	color: #fff;
+	color: #000;
 	font-family: "High Tower Text";
 	font-size: 28px;
 	text-align: center;
 	float: center;
 	padding-top: 10%;
 	padding-bottom: 1px;
-	text-shadow: 2px 2px #5A6FD8;
+	text-shadow:-1px -4px 9px #000000;
 }
 
 .bacilica img{
 	margin: 4%;
-	padding-left: 4%;
+	padding-left: 2%;
 
 }
 
 .bacilica p{
-	color: #fff;
+	color: #000;
 	font-family: "High Tower Text";
 	font-size: 16px;
 	text-align: justify;
 	width: 50%;
 	margin: 10px;
+	padding: 3%;
 	
 }
 
