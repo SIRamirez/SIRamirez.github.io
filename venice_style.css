@@ -1,0 +1,142 @@
+body{
+	background-image: url("");
+	background-position: center;
+	background-color: rgba(99, 95, 89, 0.7);
+}
+
+.container{
+	width: 75%;
+	margin: 0 auto;
+}
+
+/* heading of page*/
+
+header{
+	background-color: #424874;
+	background-image: url("images/vacation/venice/venice.jpg");
+	background-position: center;
+	padding-top: 10px;
+}
+
+header h1{
+	color: #fff;
+	font-family: "Harlow Solid";
+	text-align: left;
+	font-size: 55px;
+	margin-left: 25px;
+	text-shadow: 2px 3px #000000;
+}
+
+/*navegation buttons*/
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-color: #BFBDC1;
+} 
+
+nav{
+	background-color: rgba(179, 177, 187, 1);
+	padding-left: 20px;
+	padding-right: 45px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	position: absolute;
+    left: 20px;
+    top: 169px;
+    font-family: "Lucida Calligraphy";
+    text-align: center;
+}
+
+nav ul li{
+	display: block;
+	text-align: left;
+	width: 60px;
+	font-size: 15px
+}
+
+
+li a:link, li a:active, li a:hover, li a:visited{
+	color: #000;
+	text-decoration: none;
+
+}
+
+li a:hover{
+	text-decoration: underline;
+	font-weight: bold;
+	color: #fff;
+}
+
+/*body background color*/
+main{
+	background-color: rgba(99, 95, 89, 1);
+
+}
+ 
+/*page content*/
+
+.teatro img{
+	padding-left: 3%;
+
+}
+
+.teatro h2{
+	color: #fff;
+	font-family: "High Tower Text";
+	font-size: 28px;
+	text-align: center;
+	float: center;
+	padding-top: 20px;
+	text-shadow: 2px 2px #5A6FD8;
+}
+
+.teatro p{
+	color: #fff;
+	font-family: "High Tower Text";
+	font-size: 16px;
+	text-align: justify;
+	width: 50%;
+	float: right;
+	margin: 5px;
+	padding-right: 5%;
+}
+
+.bacilica h2{
+	color: #fff;
+	font-family: "High Tower Text";
+	font-size: 28px;
+	text-align: center;
+	float: center;
+	padding-top: 10%;
+	padding-bottom: 1px;
+	text-shadow: 2px 2px #5A6FD8;
+}
+
+.bacilica img{
+	margin: 4%;
+	padding-left: 4%;
+
+}
+
+.bacilica p{
+	color: #fff;
+	font-family: "High Tower Text";
+	font-size: 16px;
+	text-align: justify;
+	width: 50%;
+	margin: 10px;
+	
+}
+
+
+
+/*copyright area*/
+footer {
+	clear: both;
+	text-align: center;
+	background-color: black;
+	padding: 10px;
+	color: white;
+}
